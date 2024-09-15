@@ -1,0 +1,2 @@
+# ProjetoEstacio_Sentimentoteca_FRONTEND_PYTHON
+ProjetoEstacio_Sentimentoteca_FRONTEND_PYTHON
